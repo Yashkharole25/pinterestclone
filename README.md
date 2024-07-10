@@ -1,1 +1,3 @@
 # pinterestclone
+# pintrestclone
+# pintrestclone
